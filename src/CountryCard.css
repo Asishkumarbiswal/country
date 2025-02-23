@@ -1,0 +1,17 @@
+.CountryCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+    width: 180px;
+    height: 180px;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
